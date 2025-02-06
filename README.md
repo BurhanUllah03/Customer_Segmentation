@@ -87,6 +87,8 @@ Q8  : Does the payment method have a relation with other columns?
 *   **Transaction Date Range:** Transactions span from January 2020 to March 2023.
 *   **Shopping Malls:**  The `shopping_mall` column includes data from 10 distinct shopping malls.
 
+**(c)Solving questions provided through visuals**
+![Image](https://github.com/user-attachments/assets/37414b59-b437-45e8-aa0c-bf6910cafb93)
 
- 
+![Image](https://github.com/user-attachments/assets/b1b42051-ccd9-4b5a-be30-9203c45d4b3f)
 
