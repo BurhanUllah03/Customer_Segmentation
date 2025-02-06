@@ -92,3 +92,17 @@ Q8  : Does the payment method have a relation with other columns?
 
 ![Image](https://github.com/user-attachments/assets/b1b42051-ccd9-4b5a-be30-9203c45d4b3f)
 
+![Image](https://github.com/user-attachments/assets/084a5573-0bbe-490d-a5ce-5b949c4bae12)
+
+![Image](https://github.com/user-attachments/assets/17d44b8d-3b67-421f-9db7-6cfb32091374)
+
+![Image](https://github.com/user-attachments/assets/629765ac-e943-455d-9f1c-e36874680c0a)
+
+![Image](https://github.com/user-attachments/assets/66573e11-835d-474b-b754-2c1ff340b51a)
+
+![Image](https://github.com/user-attachments/assets/222bf6ea-3e0b-4232-a75c-1c071910914e)
+
+![Image](https://github.com/user-attachments/assets/3d9bf5ce-69b1-4fe0-acbf-4e49c937cfbb)
+
+![Image](https://github.com/user-attachments/assets/f04f9fc9-0eab-4b52-9713-89775b9fc6ed)
+
