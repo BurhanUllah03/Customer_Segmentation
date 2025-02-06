@@ -71,11 +71,11 @@ Q8  : Does the payment method have a relation with other columns?
 
 ## 📝 Steps followed 
 
-**Loading the data in Power BI** : Load data into Power BI Desktop, dataset is a csv file. Click on "Transform Data"
+**(a)Loading the data in Power BI** : Load data into Power BI Desktop, dataset is a csv file. Click on "Transform Data"
 
-**Data profiling in Power Query** : Open Power query editor & in view tab under Data preview section, check "column distribution", "column quality" & "column profile" options.
+**(b)Data profiling in Power Query** : Open Power query editor & in view tab under Data preview section, check "column distribution", "column quality" & "column profile" options.
 
-**Results Observed** : Analyzed the columns and their distribution, found that
+**(c)Results Observed** : Analyzed the columns and their distribution, found that
 
 *   A total of 99,458 transactions were processed with no duplicate records found.
 *   **Transaction Volume and Uniqueness:** A total of 99,458 unique transactions were processed, with no duplicate records identified.
@@ -88,5 +88,5 @@ Q8  : Does the payment method have a relation with other columns?
 *   **Shopping Malls:**  The `shopping_mall` column includes data from 10 distinct shopping malls.
 
 
-**(d) Solving Questions through visuals** 
+ 
 
